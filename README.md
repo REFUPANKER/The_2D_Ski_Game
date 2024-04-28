@@ -13,7 +13,7 @@ _[by 27-45 / LostMoon Games]_
 <img src="https://github.com/REFUPANKER/The_2D_Ski_Game/assets/68808212/4d766036-5316-4843-9919-8a37a2b4c853" width="640" height="400"/>  
 <h3>Menu : Level Completed </h3>
 <img src="https://github.com/REFUPANKER/The_2D_Ski_Game/assets/68808212/fb428c69-a406-4d00-8346-6a76330851bc" width="640" height="400"/>  
-<h3>Menu : Level Completed </h3>
+<h3>Menu : Game Over </h3>
 <img src="https://github.com/REFUPANKER/The_2D_Ski_Game/assets/68808212/cd17862a-76a1-457e-af99-e251b0b1252d" width="640" height="400"/>  
 <h3>In Game : First Step </h3>
 <img src="https://github.com/REFUPANKER/The_2D_Ski_Game/assets/68808212/e9c39d28-f5db-47c0-9eca-bbce3c9d2f24" width="640" height="400"/>  
