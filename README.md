@@ -1,9 +1,32 @@
 # Ski Game 
 _[by 27-45 / LostMoon Games]_
 
+<a href="#gameplay">Gameplay</a>   
+<a href="#gameplay">Documentation</a>
+
 <div id="home"></div>
 
-## Documentation
+<h2 id="gameplay"> Gameplay </h2>
+<h3>Menu : Start  </h3>
+<img src="https://github.com/REFUPANKER/The_2D_Ski_Game/assets/68808212/51ecda41-8fc6-4f97-bc5f-aefd5c33fcdd" width="640" height="400"/>  
+<h3>Menu : Settings </h3>
+<img src="https://github.com/REFUPANKER/The_2D_Ski_Game/assets/68808212/4d766036-5316-4843-9919-8a37a2b4c853" width="640" height="400"/>  
+<h3>Menu : Level Completed </h3>
+<img src="https://github.com/REFUPANKER/The_2D_Ski_Game/assets/68808212/fb428c69-a406-4d00-8346-6a76330851bc" width="640" height="400"/>  
+<h3>Menu : Level Completed </h3>
+<img src="https://github.com/REFUPANKER/The_2D_Ski_Game/assets/68808212/cd17862a-76a1-457e-af99-e251b0b1252d" width="640" height="400"/>  
+<h3>In Game : First Step </h3>
+<img src="https://github.com/REFUPANKER/The_2D_Ski_Game/assets/68808212/e9c39d28-f5db-47c0-9eca-bbce3c9d2f24" width="640" height="400"/>  
+<h3>In Game : Landing after jump </h3>
+<img src="https://github.com/REFUPANKER/The_2D_Ski_Game/assets/68808212/46a176cc-40e2-4e3d-943e-5f6a3a196b84" width="640" height="400"/>  
+<h3>In Game : Checkpoints</h3>
+<img src="https://github.com/REFUPANKER/The_2D_Ski_Game/assets/68808212/9fa46c6b-51b0-4c91-8bbe-08a9e12fc16a" width="640" height="400"/>  
+
+<a href="#home">Back to top</a>
+
+
+<h2 id="documentation">Documentation</h2> 
+
 - [Player](#player)
 - [Ground Checker](#groundchecker)
 - [Hearts Controller](#heartscontroller)
