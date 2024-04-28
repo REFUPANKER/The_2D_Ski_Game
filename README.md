@@ -2,7 +2,7 @@
 _[by 27-45 / LostMoon Games]_
 
 <a href="#gameplay">Gameplay</a>   
-<a href="#gameplay">Documentation</a>
+<a href="#documentation">Documentation</a>
 
 <div id="home"></div>
 
